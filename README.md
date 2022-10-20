@@ -19,7 +19,7 @@ Means of communication:\
 [<img src='https://user-images.githubusercontent.com/44331529/190991117-92cba33a-637c-4870-b652-34d255f87995.png' alt='discord' height='50'>](https://discordapp.com/users/765663833049661530) [<img src='https://user-images.githubusercontent.com/44331529/190991712-4d6212ff-3a9d-422d-8b33-739ac76c00d8.png' alt='telegram' height='48'>](https://t.me/STAVRRR)
 
 #
-Cosmo-EXPLORER \
+### Cosmo-EXPLORER
 [<img src='https://user-images.githubusercontent.com/44331529/193394591-5d0c2dd0-1993-45fe-82fb-7a56e6a75c78.png' alt='discord' height='90'>](http://explorer.stavr.tech/)
 #
 [<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='mainnets'  width='99.5%'>](https://github.com/obajayromanv1812)
