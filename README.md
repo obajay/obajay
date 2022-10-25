@@ -27,7 +27,7 @@ We work with all popular and new/unique blockchains. We help projects develop in
  <div align="center">
  
 ### Cosmo-EXPLORER
-[<img src='https://user-images.githubusercontent.com/44331529/193394591-5d0c2dd0-1993-45fe-82fb-7a56e6a75c78.png' alt='discord' height='150'>](http://explorer.stavr.tech/)
+[<img src='https://user-images.githubusercontent.com/44331529/193394591-5d0c2dd0-1993-45fe-82fb-7a56e6a75c78.png' alt='discord' height='120'>](http://explorer.stavr.tech/)
  <br />
 <br />
   </div>
