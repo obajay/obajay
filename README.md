@@ -8,7 +8,7 @@ We work with all popular and new/unique blockchains. We help projects develop in
  :gear:25/7 management and monitoring! (Grafana + Prometeus + Discord/Telegram alerts + Tenderduty) \
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
- <img align="top" src="https://komarev.com/ghpvc/?username=obajay&color=brightgreen"/>
+ <img align="top" src="https://komarev.com/ghpvc/?username=obajay&color=brightgreen" height='35'/>
 <br />
 <br />
   </div>
