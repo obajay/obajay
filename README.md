@@ -27,9 +27,9 @@ We work with all popular and new/unique blockchains. We help projects develop in
 #
  <div align="center">
  
-### Cosmo-EXPLORER
-[<img src='https://user-images.githubusercontent.com/44331529/193394591-5d0c2dd0-1993-45fe-82fb-7a56e6a75c78.png' alt='discord' height='120'>](http://explorer.stavr.tech/)
- <br />
+### Cosmo-EXPLORER, IBC Relayers
+[<img src='https://user-images.githubusercontent.com/44331529/193394591-5d0c2dd0-1993-45fe-82fb-7a56e6a75c78.png' alt='discord' height='120'>](http://explorer.stavr.tech/)[<img src='https://user-images.githubusercontent.com/44331529/200136962-d77c52cb-78f2-4bb1-b2a3-7126ed72eac5.png' alt='discord' height='120'>](https://github.com/obajay)
+  <br />
 <br />
   </div>
 </div>
