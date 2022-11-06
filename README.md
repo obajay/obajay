@@ -23,13 +23,13 @@ We work with all popular and new/unique blockchains. We help projects develop in
 <br />
   </div>
 </div>
- 
+
 #
- <div align="center">
+<div align="center">
  
-### Cosmo-EXPLORER, IBC Relayers
-[<img src='https://user-images.githubusercontent.com/44331529/193394591-5d0c2dd0-1993-45fe-82fb-7a56e6a75c78.png' alt='discord' height='120'>](http://explorer.stavr.tech/)[<img src='https://user-images.githubusercontent.com/44331529/200136962-d77c52cb-78f2-4bb1-b2a3-7126ed72eac5.png' alt='discord' height='120'>](https://github.com/obajay/IBC_Relayers)
-  <br />
+### Cosmo-EXPLORER, IBC Relayers, TenderDuty
+[<img src='https://user-images.githubusercontent.com/44331529/193394591-5d0c2dd0-1993-45fe-82fb-7a56e6a75c78.png' alt='discord' height='120'>](http://explorer.stavr.tech/)[<img src='https://user-images.githubusercontent.com/44331529/200136962-d77c52cb-78f2-4bb1-b2a3-7126ed72eac5.png' alt='discord' height='120'>](https://github.com/obajay/IBC_Relayers)[<img src='https://user-images.githubusercontent.com/44331529/200166434-0c43daa1-d83d-4024-bcd8-03376098f3b5.png' alt='discord' height='115!'>](http://tenderduty.stavr.tech:8888/)
+    <br />
 <br />
   </div>
 </div>
