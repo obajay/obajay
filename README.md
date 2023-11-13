@@ -48,7 +48,6 @@ We work with all popular and new/unique blockchains. We help projects develop in
 
 
 
-
 #
 
 [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>](https://github.com/obajay)
