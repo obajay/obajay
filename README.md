@@ -1,4 +1,4 @@
-<h1 align="center"> STAVR foundation </h1>
+<h1 align="center"> STAVR Team </h1>
 
 <h4 align="center">  A community of tech-savvy crypto enthusiasts from around the world. (decentralization) welcomes you </h1>
 
